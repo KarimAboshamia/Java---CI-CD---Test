@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: pushed:latest
+          tags: karimaboshamia/simple-ci-one
